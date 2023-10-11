@@ -1,0 +1,9 @@
+[
+    {
+      "name": "Architecture Decision Records",
+      "ring": "adopt",
+      "quadrant": "techniques",
+      "isNew": "TRUE",
+      "description": "..."
+    }
+  ]
