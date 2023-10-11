@@ -5,5 +5,12 @@
       "quadrant": "techniques",
       "isNew": "TRUE",
       "description": "..."
-    }
+    },
+    {
+        "name": "Conventional Commits",
+        "ring": "adopt",
+        "quadrant": "techniques",
+        "isNew": "TRUE",
+        "description": "..."
+      }
 ]
