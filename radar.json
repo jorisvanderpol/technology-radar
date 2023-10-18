@@ -1,21 +1,21 @@
 [
     {
-      "name": "Architecture Decision Records",
-      "ring": "trail",
-      "quadrant": "techniques",
-      "isNew": "TRUE",
-      "description": "..."
+        "name": "Architecture Decision Records",
+        "ring": "trial",
+        "quadrant": "techniques",
+        "isNew": "TRUE",
+        "description": "..."
     },
     {
         "name": "Conventional Commits",
-        "ring": "trail",
+        "ring": "trial",
         "quadrant": "techniques",
         "isNew": "TRUE",
         "description": "<p><a href=https://www.conventionalcommits.org/en/v1.0.0/>Conventional Commits</a></p>"
     },
     {
         "name": "Mermaid",
-        "ring": "trail",
+        "ring": "trial",
         "quadrant": "tools",
         "isNew": "TRUE",
         "description": "<p><a href=https://mermaid.js.org/>Mermaid</a></p>"
