@@ -11,13 +11,13 @@
         "ring": "trail",
         "quadrant": "techniques",
         "isNew": "TRUE",
-        "description": "<p><a href=\"https://www.conventionalcommits.org/en/v1.0.0/\">Conventional Commits</a></p>"
+        "description": "<p><a href=https://www.conventionalcommits.org/en/v1.0.0/>Conventional Commits</a></p>"
     },
     {
         "name": "Mermaid",
         "ring": "trail",
         "quadrant": "tools",
         "isNew": "TRUE",
-        "description": "<p><a href=\"https://mermaid.js.org/\">Mermaid</a></p>"
+        "description": "<p><a href=https://mermaid.js.org/>Mermaid</a></p>"
     }
 ]
