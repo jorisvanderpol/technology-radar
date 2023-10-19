@@ -14,6 +14,13 @@
         "description": "<p><a href=https://www.conventionalcommits.org/en/v1.0.0/>Conventional Commits</a></p>"
     },
     {
+        "name": "Threat Modeling",
+        "ring": "trial",
+        "quadrant": "tools",
+        "isNew": "TRUE",
+        "description": "..."
+    }
+    {
         "name": "Mermaid",
         "ring": "trial",
         "quadrant": "tools",
